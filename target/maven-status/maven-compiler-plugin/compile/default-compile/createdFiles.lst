@@ -1,0 +1,3 @@
+com\docker\mysqltest\model\TestTable.class
+com\docker\mysqltest\service\TestTableService.class
+com\docker\mysqltest\repo\TestTableRepository.class
